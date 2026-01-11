@@ -50,9 +50,7 @@
         />
 </p>
 <br />
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VictorTherache)](https://git.io/streak-stats)
-</p>
 <br /><br />
 <!-- most used langs
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foverokavindz&show_icons=true&locale=en&layout=compact" alt="foverokavindz" /></p>
