@@ -42,15 +42,13 @@
 
 <br />
 <br />
-<p align="center">
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=foverokavindz&show_icons=true&locale=en&theme=merko"
-          alt="foverokavindz"
-        />
-</p>
 <br />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=VictorTherache" alt="GitHub Streak" /></a>
+<p align="center" >
+  <img 
+    align="center"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=VictorTherache&show_icons=true&locale=en&theme=merko"
+    alt="GitHub Streak" />
+</p>
 <br /><br />
 
 <!-- most used langs
