@@ -50,7 +50,7 @@
         />
 </p>
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VictorTherache)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VictorTherache&theme=dark" alt="GitHub Streak" /></a>
 <br /><br />
 <!-- most used langs
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foverokavindz&show_icons=true&locale=en&layout=compact" alt="foverokavindz" /></p>
