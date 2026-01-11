@@ -30,21 +30,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Image" />
 
 
-- 🔭 I’m currently Looking for an ASE/SE opportunity.
+- 🔭 I’m currently Looking for an Freelance mission Opportunity.
   
-- 🤪 Check out my [Portfolio↗️](https://kavinda-nine.vercel.app/)
+- 🤪 Check out my [Portfolio↗️]()
  
 - 🌱 I’m currently learning **.NET and AI technologies**
 
-- 💬 Ask me about **MERN, Java, Python, C#, Js**
+- 💬 Ask me about **PHP/Symfony, React/NextJs/Ts/Js**
 
-- 📫 How to reach me **kavindamadhuranga74@gmail.com**
+- 📫 How to reach me **therachevictor1997@gmail.com**
 
 <br />
-<br />
-<p align="center" width="70%">
-  <a href="https://app.daily.dev/foveromw"><img src="https://api.daily.dev/devcards/v2/5VQRF8S2TLDEiIsJCI2aw.png?type=wide&r=799" width="652" alt="Kavinda Madhuranga's Dev Card"/></a>
-</p>
 <br />
 <p align="center">
         <img
