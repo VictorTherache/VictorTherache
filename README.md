@@ -46,7 +46,7 @@
 <p align="center" >
   <img 
     align="center"
-    src="https://github-readme-streak-stats-eight.vercel.app?user=VictorTherache&show_icons=true&locale=en&theme=merko"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=VictorTherache&show_icons=true&locale=en&theme=monokai"
     alt="GitHub Streak" />
 </p>
 <br /><br />
