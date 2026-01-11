@@ -51,11 +51,7 @@
 </p>
 <br />
 <p align="center">
-        <img
-          align="center"
-          src="https://github-readme-streak-stats.herokuapp.com?user=foverokavindz&theme=radical&border_radius=4.7&date_format=j%2Fn%5B%2FY%5D"
-          alt="foverokavindz"
-        />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VictorTherache)](https://git.io/streak-stats)
 </p>
 <br /><br />
 <!-- most used langs
